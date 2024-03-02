@@ -1,4 +1,4 @@
-# Hi there, I'm @codecraftsmanpawan! 👋
+# Hi there, I'm @codecraftsmanpawan!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Welcome to my GitHub profile! I'm passionate about software development, especially in web and mobile technologies.
 
@@ -8,21 +8,40 @@ Welcome to my GitHub profile! I'm passionate about software development, especia
 - 💼 Open to collaborate on web development projects
 
   ## Skills
-  
- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)  
- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
- ![SEO](https://img.shields.io/badge/-SEO-47A248?style=flat&logo=google&logoColor=white)
- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
- ![Web Hosting](https://img.shields.io/badge/-Web_Hosting-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+**Frontend Technologies:**<br/><br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
+<br/><br/>
+**Backend Technologies:**<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white)
+<br/><br/>
+**Additional Technologies:**<br/><br/>
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&labelColor=black&logo=google&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&labelColor=black&logo=react%20query&logoColor=white)
+![Arduino IoT](https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<br/><br/>
+**Web Hosting and Cloud Services:**<br/><br/>
+![Web Hosting](https://img.shields.io/badge/Web_Hosting-0078D4?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=white)
+<br/><br/>
+**Development Tools:**<br/><br/>
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
+
+<br/>
+<br/>
 
 ## Education
 - **B.Tech in Computer Science Engineering**  
