@@ -1,14 +1,37 @@
 # Hi there, I'm @codecraftsmanpawan!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Welcome to my GitHub profile! I'm passionate about software development, especially in web and mobile technologies.
+<br/>
 
 ## About Me
-- 👨‍💻 Full Stack Developer
-- 🌱 Currently learning about Node.js and APIs
-- 💼 Open to collaborate on web development projects
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 👨‍💻 Full Stack Developer <br/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 🌱 Currently learning about Node.js and APIs <br/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 💼 Open to collaborate on web development projects <br/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> ✌️ Enjoy to do programming and sharing knowledge <br/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> ❤️ Love to writing code and learning new features <br/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 📧 Reach me anytime: codecraftsmanpawan@gmail.com
+<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitram278" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matrix27" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.sidorov27" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrix278" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://www.showwcase.com/favicon.png" alt="matrix278" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://www.polywork.com/assets/favicon/apple-icon-57x57-49bf05211cd5ebece3be3898101ac4b1d320d45bcbaa5b48f3dbf3dc33c8b3b3.png" alt="matrix278" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="martin" height="30" width="40" /></a>
+</p>
 
-  ## Skills
+<br/>
 
+<h4 align="left">Languages and Tools:</h4>
+<br/>
+ 
 **Frontend Technologies:**<br/><br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -41,18 +64,23 @@ Welcome to my GitHub profile! I'm passionate about software development, especia
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 
 <br/>
-<br/>
+<a> 
+    <a href="https://github.com/codecraftsmanpawan"><img alt="codecraftsmanpawan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=codecraftsmanpawan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="194px" width="49.5%"/></a>
+  <a href="https://github.com/codecraftsmanpawan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecraftsmanpawan&theme=radical&border=7F3FBF&background=0D1117&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="codecraftsmanpawan's GitHub streak"/></a>
+  <br/>
+</a>
 
-## Education
-- **B.Tech in Computer Science Engineering**  
-  *IIMT University, Meerut - (UP)*  
-  *(08/2021 - Present)*
+<p>
+  <a href="https://github.com/Codecraftsmanpawan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecraftsmanpawan&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%"  alt="Codecraftsmanpawan's GitHub Contribution"/>
+  </a>
+</p>
 
-- **Diploma in Computer Science Engineering**  
-  *IIMT University, Meerut - (UP)*  
-  *(08/2018 - 07/2021)*
 
----
+
+
+
+
 ## Work Experience
 - **Search Engine Optimization (SEO)**  
   *IIMT University, Meerut*  
@@ -86,12 +114,14 @@ Welcome to my GitHub profile! I'm passionate about software development, especia
 5. **Examination Form Portal**
 6. **Business and portfolio website**
 
-## Check Out My Work
-- [![Live Project](https://img.shields.io/badge/Live_Project-KavachQR.live-blue.svg)](https://kavachqr.live/)
-- [![Live Project](https://img.shields.io/badge/Live_Project-SRJAcademy.org-blue.svg)](https://srjacademy.org/)
-- [![Live Project](https://img.shields.io/badge/Live_Project-MenTimeet.com-blue.svg)](https://mentimeet.com/)
-- [![Live Project](https://img.shields.io/badge/Live_Project-RideBuddy.app-blue.svg)](https://ridebuddy.app/)
 
+## Check Out My Work
+- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-KavachQR.live-blue.svg)](https://kavachqr.live/)
+- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-SRJAcademy.org-blue.svg)](https://srjacademy.org/)
+- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-MenTimeet.com-blue.svg)](https://mentimeet.com/)
+- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-RideBuddy.app-blue.svg)](https://ridebuddy.app/)
+
+![Codecraftsmanpawan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codecraftsmanpawan&custom_title=Pawan%'s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true )
 ## How to Reach Me
 - 📧 Email: codecraftsmanpawan@gmail.com
 
