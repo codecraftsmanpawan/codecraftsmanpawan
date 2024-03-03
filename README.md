@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm passionate about software development, especia
 <br/>
 <a> 
     <a href="https://github.com/codecraftsmanpawan"><img alt="codecraftsmanpawan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=codecraftsmanpawan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="194px" width="49.5%"/></a>
-  <a href="https://github.com/codecraftsmanpawan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecraftsmanpawan&theme=radical&border=7F3FBF&background=0D1117&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="codecraftsmanpawan's GitHub streak"/></a>
+  <a href="https://github.com/codecraftsmanpawan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecraftsmanpawan&theme=radical&border=7F3FBF&background=0D1117&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="codecraftsmanpawan's GitHub streak" height="194px" width="49.5%"/></a>
   <br/>
 </a>
 
