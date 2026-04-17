@@ -1,129 +1,206 @@
-# Hi there, I'm @codecraftsmanpawan!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">Hi 👋, I'm Pawan Kumar Singh</h1>
+<h3 align="center">Full Stack Developer | React | React Native | Node.js | MongoDB</h3>
 
-Welcome to my GitHub profile! I'm passionate about software development, especially in web and mobile technologies.
-<br/>
-
-## About Me
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 👨‍💻 Full Stack Developer <br/>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 🌱 Currently learning about Node.js and APIs <br/>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 💼 Open to collaborate on web development projects <br/>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> ✌️ Enjoy to do programming and sharing knowledge <br/>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> ❤️ Love to writing code and learning new features <br/>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx4dm0yYWcxd2dzb2U0ejQ3eTh6MXhrZWhnbzkxMXEwYTYzOWJ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgduo4kWRRDVK/giphy.gif" width="17"> 📧 Reach me anytime: codecraftsmanpawan@gmail.com
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="matrix278" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matrix27" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.sidorov27" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrix278" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://www.showwcase.com/favicon.png" alt="matrix278" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://www.polywork.com/assets/favicon/apple-icon-57x57-49bf05211cd5ebece3be3898101ac4b1d320d45bcbaa5b48f3dbf3dc33c8b3b3.png" alt="matrix278" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="martin" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Web+%26+Mobile+Apps;React+%7C+React+Native+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<br/>
-
-<h4 align="left">Languages and Tools:</h4>
-<br/>
- 
-**Frontend Technologies:**<br/><br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)
-![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
-<br/><br/>
-**Backend Technologies:**<br/><br/>
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=white)
-<br/><br/>
-**Additional Technologies:**<br/><br/>
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&labelColor=black&logo=google&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&labelColor=black&logo=react%20query&logoColor=white)
-![Arduino IoT](https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-<br/><br/>
-**Web Hosting and Cloud Services:**<br/><br/>
-![Web Hosting](https://img.shields.io/badge/Web_Hosting-0078D4?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=white)
-<br/><br/>
-**Development Tools:**<br/><br/>
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
-
-<br/>
-<a> 
-    <a href="https://github.com/codecraftsmanpawan"><img alt="codecraftsmanpawan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=codecraftsmanpawan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="194px" width="49.5%"/></a>
-  <a href="https://github.com/codecraftsmanpawan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecraftsmanpawan&theme=radical&border=7F3FBF&background=0D1117&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="codecraftsmanpawan's GitHub streak" height="194px" width="49.5%"/></a>
-  <br/>
-</a>
-
-<p>
-  <a href="https://github.com/Codecraftsmanpawan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecraftsmanpawan&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%"  alt="Codecraftsmanpawan's GitHub Contribution"/>
+<p align="center">
+  <a href="https://github.com/codecraftsmanpawan">
+    <img src="https://img.shields.io/github/followers/codecraftsmanpawan?label=Followers&style=for-the-badge&logo=github&color=0f172a&labelColor=1e293b" />
+  </a>
+  <a href="mailto:codecraftsmanpawan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Now-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" />
+  </a>
+  <a href="https://github.com/codecraftsmanpawan?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View_Work-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b" />
   </a>
 </p>
 
+---
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+## 🚀 About Me
 
+- 💻 Full Stack Developer passionate about building modern web and mobile apps
+- 🌱 Currently exploring **advanced backend systems, APIs, and scalable architectures**
+- 📱 Building products using **React, React Native, Node.js, Express, MongoDB**
+- 🤝 Open to collaboration on **real-world web and mobile development projects**
+- ⚡ I enjoy solving problems, improving UI, and shipping practical products
+- 📧 Reach me at: **codecraftsmanpawan@gmail.com**
 
+<br clear="right"/>
 
-## Work Experience
-- **Search Engine Optimization (SEO)**  
-  *IIMT University, Meerut*  
-  *(03/2022 - 03/2023)*
-  - Improved search engine rankings by designing and implementing onsite and offsite tactics.
-  - Inspected website code for errors, making adjustments to achieve optimal performance.
-  - Developed strategies to improve user engagement and reach on social media platforms.
-  - Researched SEO keywords to develop strategies aligning with client goals.
-  - Updated SEO optimization tasks using content management systems.
-  - Completed tasks before the deadline.
+---
 
-- **Full Stack Web Developer**  
-  *Mentimeet Solution Private Limited, Internship*  
-  *(Jul 2023 - Dec 2023)*
-  - Developed full-stack web applications using technologies such as HTML, CSS, JavaScript, Bootstrap,PHP, APIs, and SQL.
-  - Utilized AWS web hosting services to deploy and manage web applications.
+## 🌐 Connect With Me
 
-- **Full Stack Developer**  
-  *RideBuddy*  
-  *(Jan 2024 - Present)*
-  - Currently developing and maintaining features for the RideBuddy web platform.
-  - Implementing front-end functionalities using React and back-end services with Node.js.
-  - Collaborating with the team to optimize code efficiency and performance.
-  - Participating in code reviews and providing constructive feedback for improvements.
+<p align="center">
+  <a href="mailto:codecraftsmanpawan@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="52" />
+  </a>
+  <a href="https://github.com/codecraftsmanpawan">
+    <img src="https://skillicons.dev/icons?i=github" height="52" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="52" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" height="52" />
+  </a>
+</p>
 
-## Projects
-1. **Railway line tracking system for reducing accident through sensor technology with IOT**
-2. **Station management system technology with IOT (app & Website)**
-3. **Robotic car with dual axis sun tracker solar**
-4. **E-Learning Web Portal with E-Library**
-5. **Examination Form Portal**
-6. **Business and portfolio website**
+---
 
+## 🛠️ Tech Stack
 
-## Check Out My Work
-- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-KavachQR.live-blue.svg)](https://kavachqr.live/)
-- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-SRJAcademy.org-blue.svg)](https://srjacademy.org/)
-- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-MenTimeet.com-blue.svg)](https://mentimeet.com/)
-- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="32"> [![Live Project](https://img.shields.io/badge/Live_Project-RideBuddy.app-blue.svg)](https://ridebuddy.app/)
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,sass" />
+</p>
 
-![Codecraftsmanpawan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codecraftsmanpawan&custom_title=Pawan%'s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true )
-## How to Reach Me
-- 📧 Email: codecraftsmanpawan@gmail.com
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,firebase" />
+</p>
 
-## Fun Fact
-- ⚡ I once built a robot that could solve a Rubik's Cube in under a minute!
+### ☁️ Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,java" />
+</p>
+
+---
+
+## ✨ Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Development-Expert-111827?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-React_Native-111827?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-111827?style=for-the-badge&logo=node.js&logoColor=83cd29" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47a248" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/codecraftsmanpawan">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codecraftsmanpawan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+  </a>
+  <a href="https://github.com/codecraftsmanpawan">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codecraftsmanpawan&theme=tokyonight&hide_border=true&border_radius=20" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecraftsmanpawan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codecraftsmanpawan&bg_color=0f172a&color=38bdf8&line=8b5cf6&point=f8fafc&area=true&hide_border=true&radius=16" />
+</p>
+
+---
+
+## 💼 Work Experience
+
+### **Full Stack Developer** — RideBuddy  
+**Jan 2024 - Present**
+- Developing and maintaining features for the RideBuddy platform
+- Building front-end interfaces with React and mobile experiences with React Native
+- Working on backend services using Node.js and APIs
+- Improving performance, scalability, and code quality with the team
+
+### **Full Stack Web Developer Intern** — Mentimeet Solution Private Limited  
+**Jul 2023 - Dec 2023**
+- Built full-stack web applications using HTML, CSS, JavaScript, Bootstrap, PHP, APIs, and SQL
+- Worked with hosting and deployment environments including AWS services
+
+### **SEO** — IIMT University, Meerut  
+**Mar 2022 - Mar 2023**
+- Improved search rankings using onsite and offsite SEO strategies
+- Audited website code and optimized performance
+- Researched keywords and improved digital visibility
+
+---
+
+## 📂 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Project-IoT_Railway_Tracking-1e293b?style=for-the-badge&logo=arduino&logoColor=22c55e" />
+      <br/><br/>
+      Railway line tracking system for accident reduction using IoT and sensors
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Project-Station_Management_System-1e293b?style=for-the-badge&logo=googlemaps&logoColor=f59e0b" />
+      <br/><br/>
+      Smart station management application and website with IoT integration
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Project-E--Learning_Portal-1e293b?style=for-the-badge&logo=bookstack&logoColor=38bdf8" />
+      <br/><br/>
+      E-Learning portal with digital library support
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Project-Business_%26_Portfolio_Website-1e293b?style=for-the-badge&logo=vercel&logoColor=a78bfa" />
+      <br/><br/>
+      Modern portfolio and business websites for real-world usage
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔥 Live Projects
+
+<p align="center">
+  <a href="https://kavachqr.live/">
+    <img src="https://img.shields.io/badge/KavachQR-Live_Project-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22c55e" />
+  </a>
+  <a href="https://srjacademy.org/">
+    <img src="https://img.shields.io/badge/SRJAcademy-Live_Project-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+  </a>
+  <a href="https://mentimeet.com/">
+    <img src="https://img.shields.io/badge/MenTimeet-Live_Project-0f172a?style=for-the-badge&logo=googlechrome&logoColor=f59e0b" />
+  </a>
+  <a href="https://ridebuddy.app/">
+    <img src="https://img.shields.io/badge/RideBuddy-Live_Project-0f172a?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" />
+  </a>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codecraftsmanpawan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+---
+
+## 💡 Fun Fact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fun_Fact-I_once_built_a_robot_that_could_solve_a_Rubik's_Cube_in_under_a_minute-111827?style=for-the-badge&logo=robotframework&logoColor=06b6d4" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:codecraftsmanpawan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-codecraftsmanpawan%40gmail.com-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codecraftsmanpawan&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
+</p>
